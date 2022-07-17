@@ -1,0 +1,54 @@
+iter:<built-in function iter>------------------------------------------
+
+max_global : 100-------------max_local : 500---------
+
+Percentage discriminatory inputs - 50.3859649122807
+Number of discriminatory inputs are 618
+Total Inputs are 1425
+use time:31.04436707496643
+
+Percentage discriminatory inputs - 51.05017502917153
+Number of discriminatory inputs are 775
+Total Inputs are 1714
+use time:60.48450255393982
+
+Percentage discriminatory inputs - 51.373626373626365
+Number of discriminatory inputs are 835
+Total Inputs are 1820
+use time:90.47334289550781
+
+Percentage discriminatory inputs - 51.24141574220814
+Number of discriminatory inputs are 870
+Total Inputs are 1893
+use time:120.09222793579102
+
+Percentage discriminatory inputs - 51.08471074380165
+Number of discriminatory inputs are 889
+Total Inputs are 1936
+use time:150.46274399757385
+
+Percentage discriminatory inputs - 50.89762251334303
+Number of discriminatory inputs are 949
+Total Inputs are 2061
+use time:180.21930289268494
+
+Percentage discriminatory inputs - 50.69788383610986
+Number of discriminatory inputs are 1026
+Total Inputs are 2221
+use time:210.3385033607483
+
+Percentage discriminatory inputs - 50.488997555012226
+Number of discriminatory inputs are 1139
+Total Inputs are 2454
+use time:240.20234656333923
+
+Percentage discriminatory inputs - 50.635348479014255
+Number of discriminatory inputs are 1215
+Total Inputs are 2597
+use time:270.34319376945496
+
+Percentage discriminatory inputs - 50.47238372093024
+Number of discriminatory inputs are 1289
+Total Inputs are 2752
+use time:300.52854585647583
+

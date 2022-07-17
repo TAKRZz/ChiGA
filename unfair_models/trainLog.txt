@@ -1,0 +1,30 @@
+---------------------------------------------------
+MLPClassifier(batch_size=64, hidden_layer_sizes=[128, 128, 128, 128, 128],
+              learning_rate_init=0.01, max_iter=100)
+Datasets:    census
+Random_State : 1
+Score : 0.8426224474128666
+Saved as : "model/census/MLP_unfair1.pkl"
+takes : 98.15802025794983s
+----------------------------------------------------
+
+----------------------------------------------------
+Model :MLPClassifier(batch_size=64, hidden_layer_sizes=[128, 128, 128, 128, 128],
+              learning_rate_init=0.01, max_iter=100)
+Datasets:    bank
+Random_State : 1
+Score : 0.8962733606104168
+Saved as : "model/bank/MLP_unfair1.pkl"
+takes : 273.6511163711548s
+----------------------------------------------------
+
+----------------------------------------------------
+Model :MLPClassifier(batch_size=64, hidden_layer_sizes=[128, 128, 128, 128, 128],
+              learning_rate_init=0.01, max_iter=100)
+Datasets:    credit
+Random_State : 1
+Score : 0.7416666666666667
+Saved as : "model/credit/MLP_unfair1.pkl"
+takes : 2.284689426422119s
+----------------------------------------------------
+

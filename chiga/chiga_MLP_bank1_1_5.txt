@@ -1,0 +1,134 @@
+iter:<built-in function iter>-------------------------------------------------------
+
+max_global : 100-------------max_local : 500---------
+
+Percentage discriminatory inputs - 65.76139670223084
+Number of discriminatory inputs are 578
+Total Inputs are 1031
+use time:61.29481792449951
+
+Percentage discriminatory inputs - 68.96551724137932
+Number of discriminatory inputs are 1140
+Total Inputs are 1798
+use time:122.15941739082336
+
+Percentage discriminatory inputs - 70.88305489260142
+Number of discriminatory inputs are 1682
+Total Inputs are 2514
+use time:182.45405387878418
+
+Percentage discriminatory inputs - 73.2902033271719
+Number of discriminatory inputs are 2279
+Total Inputs are 3246
+use time:241.6863181591034
+
+Percentage discriminatory inputs - 74.24968474148802
+Number of discriminatory inputs are 2844
+Total Inputs are 3965
+use time:303.208726644516
+
+Percentage discriminatory inputs - 75.02131287297527
+Number of discriminatory inputs are 3420
+Total Inputs are 4692
+use time:361.6356337070465
+
+Percentage discriminatory inputs - 75.8223378554172
+Number of discriminatory inputs are 3980
+Total Inputs are 5381
+use time:420.12627029418945
+
+Percentage discriminatory inputs - 77.3615372194413
+Number of discriminatory inputs are 4691
+Total Inputs are 6193
+use time:481.81951665878296
+
+Percentage discriminatory inputs - 77.30982220926843
+Number of discriminatory inputs are 5205
+Total Inputs are 6862
+use time:540.3757004737854
+
+Percentage discriminatory inputs - 77.47223691168695
+Number of discriminatory inputs are 5760
+Total Inputs are 7564
+use time:601.7088799476624
+
+Percentage discriminatory inputs - 77.39024390243902
+Number of discriminatory inputs are 6246
+Total Inputs are 8200
+use time:660.0887529850006
+
+Percentage discriminatory inputs - 77.10532225465978
+Number of discriminatory inputs are 6767
+Total Inputs are 8906
+use time:721.7362039089203
+
+Percentage discriminatory inputs - 77.1611968112641
+Number of discriminatory inputs are 7353
+Total Inputs are 9659
+use time:783.1795353889465
+
+Percentage discriminatory inputs - 76.84404381118543
+Number of discriminatory inputs are 7828
+Total Inputs are 10317
+use time:841.2163474559784
+
+Percentage discriminatory inputs - 76.27026042615188
+Number of discriminatory inputs are 8276
+Total Inputs are 10982
+use time:902.5744607448578
+
+Percentage discriminatory inputs - 76.06023887831054
+Number of discriminatory inputs are 8688
+Total Inputs are 11554
+use time:960.7511749267578
+
+Percentage discriminatory inputs - 75.77400016424407
+Number of discriminatory inputs are 9127
+Total Inputs are 12177
+use time:1022.1302397251129
+
+Percentage discriminatory inputs - 75.53557466770914
+Number of discriminatory inputs are 9561
+Total Inputs are 12790
+use time:1080.385390996933
+
+Percentage discriminatory inputs - 75.11712649661635
+Number of discriminatory inputs are 10001
+Total Inputs are 13447
+use time:1141.7214517593384
+
+Percentage discriminatory inputs - 75.36775106082037
+Number of discriminatory inputs are 10557
+Total Inputs are 14140
+use time:1203.1193451881409
+
+Percentage discriminatory inputs - 75.45460690867301
+Number of discriminatory inputs are 11062
+Total Inputs are 14793
+use time:1261.2490055561066
+
+Percentage discriminatory inputs - 75.49990293146962
+Number of discriminatory inputs are 11567
+Total Inputs are 15453
+use time:1322.5824773311615
+
+Percentage discriminatory inputs - 75.61716908572137
+Number of discriminatory inputs are 12091
+Total Inputs are 16122
+use time:1380.6032304763794
+
+Percentage discriminatory inputs - 75.61105837683911
+Number of discriminatory inputs are 12645
+Total Inputs are 16856
+use time:1441.9195358753204
+
+Percentage discriminatory inputs - 75.54985754985755
+Number of discriminatory inputs are 13159
+Total Inputs are 17550
+use time:1503.1358964443207
+
+Percentage discriminatory inputs - 75.29819161215853
+Number of discriminatory inputs are 13599
+Total Inputs are 18193
+use time:1561.2011387348175
+
